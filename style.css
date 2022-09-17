@@ -42,5 +42,6 @@ li {
   margin-bottom: 40px;
 }
 .github-button {
-  text-align: center;
+  margin: 0 auto;
+  display: block;
 }
