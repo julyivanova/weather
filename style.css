@@ -41,3 +41,7 @@ li {
 .search-form {
   margin-bottom: 40px;
 }
+.github-button {
+  display: block;
+  margin: 0 auto;
+}
