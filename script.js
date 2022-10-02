@@ -159,3 +159,4 @@ celsiusLink.addEventListener("click", displaysCelsiusTemperature);
 let celsiusTemperature = null;
 
 searchCity("Kyiv");
+displayForecast();
